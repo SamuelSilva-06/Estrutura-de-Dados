@@ -1,6 +1,6 @@
 # 📚Estrutura-de-Dados
 
-Repositório criado como parte da disciplina de Introdução à Programação no Instituto Federal do Ceará – campus Morada Nova, do professor Thiago .
+Repositório criado como parte da disciplina de Estrutura de Dados no Instituto Federal do Ceará – campus Morada Nova, do professor Thiago .
 
 ## 🎯 Objetivo
 Este repositório tem como finalidade armazenar:
