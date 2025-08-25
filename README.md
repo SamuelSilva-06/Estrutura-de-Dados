@@ -7,4 +7,3 @@ Este repositório tem como finalidade armazenar:
 - Implementações de algoritmos estudados em aula
 - Exercícios práticos
 - Projetos da disciplina
-- Anotações e resumos importantes
